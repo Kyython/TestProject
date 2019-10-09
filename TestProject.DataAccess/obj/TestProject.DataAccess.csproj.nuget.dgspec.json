@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\asana\\OneDrive\\Рабочий стол\\TestProject\\TestProject.DataAccess\\TestProject.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\asana\\OneDrive\\Рабочий стол\\TestProject\\TestProject.DataAccess\\TestProject.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asana\\OneDrive\\Рабочий стол\\TestProject\\TestProject.DataAccess\\TestProject.DataAccess.csproj",
+        "projectName": "TestProject.DataAccess",
+        "projectPath": "C:\\Users\\asana\\OneDrive\\Рабочий стол\\TestProject\\TestProject.DataAccess\\TestProject.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\asana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asana\\OneDrive\\Рабочий стол\\TestProject\\TestProject.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\asana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\asana\\OneDrive\\Рабочий стол\\TestProject\\TestProject.Models\\TestProject.Models.csproj": {
+                "projectPath": "C:\\Users\\asana\\OneDrive\\Рабочий стол\\TestProject\\TestProject.Models\\TestProject.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\asana\\OneDrive\\Рабочий стол\\TestProject\\TestProject.Models\\TestProject.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asana\\OneDrive\\Рабочий стол\\TestProject\\TestProject.Models\\TestProject.Models.csproj",
+        "projectName": "TestProject.Models",
+        "projectPath": "C:\\Users\\asana\\OneDrive\\Рабочий стол\\TestProject\\TestProject.Models\\TestProject.Models.csproj",
+        "packagesPath": "C:\\Users\\asana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asana\\OneDrive\\Рабочий стол\\TestProject\\TestProject.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\asana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

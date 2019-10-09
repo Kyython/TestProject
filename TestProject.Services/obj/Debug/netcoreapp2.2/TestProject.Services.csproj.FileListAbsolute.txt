@@ -1,0 +1,16 @@
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Services\bin\Debug\netcoreapp2.2\TestProject.Services.deps.json
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Services\bin\Debug\netcoreapp2.2\TestProject.Services.dll
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Services\bin\Debug\netcoreapp2.2\TestProject.Services.pdb
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Services\obj\Debug\netcoreapp2.2\TestProject.Services.csprojAssemblyReference.cache
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Services\obj\Debug\netcoreapp2.2\TestProject.Services.csproj.CoreCompileInputs.cache
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Services\obj\Debug\netcoreapp2.2\TestProject.Services.AssemblyInfoInputs.cache
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Services\obj\Debug\netcoreapp2.2\TestProject.Services.AssemblyInfo.cs
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Services\obj\Debug\netcoreapp2.2\TestProject.Services.dll
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Services\obj\Debug\netcoreapp2.2\TestProject.Services.pdb
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Services\bin\Debug\netcoreapp2.2\TestProject.Models.dll
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Services\bin\Debug\netcoreapp2.2\TestProject.Models.pdb
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Services\obj\Debug\netcoreapp2.2\TestProject.Services.csproj.CopyComplete
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Services\bin\Debug\netcoreapp2.2\TestProject.DataAccess.dll
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Services\bin\Debug\netcoreapp2.2\TestProject.DataAccess.pdb
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Services\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Services\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Hosting.Abstractions.xml

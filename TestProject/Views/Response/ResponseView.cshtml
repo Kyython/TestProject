@@ -1,0 +1,63 @@
+﻿@model IEnumerable<TestProject.Models.ResponseInformationViewModel>
+
+@{
+    ViewData["Title"] = "ResponseView";
+}
+
+<h1>ResponseView</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NameService)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsAvailable)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RequestTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CountFailuresPerHour)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CountFailuresPerDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiscrepancyPerHour)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiscrepancyPerDay)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameService)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsAvailable)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RequestTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CountFailuresPerHour)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CountFailuresPerDay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscrepancyPerHour)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscrepancyPerDay)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,9 @@
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Models\bin\Debug\netcoreapp2.2\TestProject.Models.deps.json
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Models\bin\Debug\netcoreapp2.2\TestProject.Models.dll
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Models\bin\Debug\netcoreapp2.2\TestProject.Models.pdb
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Models\obj\Debug\netcoreapp2.2\TestProject.Models.csprojAssemblyReference.cache
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Models\obj\Debug\netcoreapp2.2\TestProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Models\obj\Debug\netcoreapp2.2\TestProject.Models.AssemblyInfoInputs.cache
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Models\obj\Debug\netcoreapp2.2\TestProject.Models.AssemblyInfo.cs
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Models\obj\Debug\netcoreapp2.2\TestProject.Models.dll
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.Models\obj\Debug\netcoreapp2.2\TestProject.Models.pdb

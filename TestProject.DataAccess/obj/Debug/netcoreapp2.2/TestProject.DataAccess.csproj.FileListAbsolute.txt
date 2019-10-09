@@ -1,0 +1,12 @@
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.DataAccess\bin\Debug\netcoreapp2.2\TestProject.DataAccess.deps.json
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.DataAccess\bin\Debug\netcoreapp2.2\TestProject.DataAccess.dll
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.DataAccess\bin\Debug\netcoreapp2.2\TestProject.DataAccess.pdb
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.DataAccess\bin\Debug\netcoreapp2.2\TestProject.Models.dll
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.DataAccess\bin\Debug\netcoreapp2.2\TestProject.Models.pdb
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.DataAccess\obj\Debug\netcoreapp2.2\TestProject.DataAccess.csprojAssemblyReference.cache
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.DataAccess\obj\Debug\netcoreapp2.2\TestProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.DataAccess\obj\Debug\netcoreapp2.2\TestProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.DataAccess\obj\Debug\netcoreapp2.2\TestProject.DataAccess.AssemblyInfo.cs
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.DataAccess\obj\Debug\netcoreapp2.2\TestProject.DataAccess.csproj.CopyComplete
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.DataAccess\obj\Debug\netcoreapp2.2\TestProject.DataAccess.dll
+C:\Users\asana\OneDrive\Рабочий стол\TestProject\TestProject.DataAccess\obj\Debug\netcoreapp2.2\TestProject.DataAccess.pdb
